@@ -1,1 +1,1 @@
-# lastpythonquiz
+# Bigfoot-ის რეპორტების ბაზის ანალიზი
